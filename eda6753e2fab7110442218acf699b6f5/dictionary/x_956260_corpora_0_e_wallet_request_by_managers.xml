@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8b427545932c42100abafe818bba1005" extends="task" label="E-Wallet Request by Managers" max_length="40" name="x_956260_corpora_0_e_wallet_request_by_managers" type="collection">
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="E-Wallet Req Number" max_length="40" name="e_wallet_req_number" type="string" use_dynamic_default="true"/>
+        <element label="Requested By (Manager)" max_length="32" name="requested_by_manager" reference="sys_user" type="reference"/>
+        <element label="Requested For (Employee)" max_length="32" name="requested_for_employee" reference="sys_user" type="reference"/>
+        <element choice="1" label="Request Status" max_length="40" name="request_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approval Requested"/>
+                <element inactive_on_update="false" label="Approved"/>
+                <element inactive_on_update="false" label="Cancelled"/>
+                <element inactive_on_update="false" label="Completed"/>
+                <element inactive_on_update="false" label="Rejected"/>
+                <element inactive_on_update="false" label="Submitted"/>
+            </choice>
+        </element>
+    </element>
+</database>
