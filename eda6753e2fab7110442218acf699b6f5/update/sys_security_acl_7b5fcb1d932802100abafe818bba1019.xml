@@ -7,21 +7,21 @@
         <description>Default access control on x_956260_corpora_0_employee</description>
         <local_or_existing>Local</local_or_existing>
         <name>x_956260_corpora_0_employee</name>
-        <operation display_value="write">write</operation>
+        <operation display_value="delete">delete</operation>
         <script/>
         <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-02-16 08:31:04</sys_created_on>
-        <sys_id>efaac6c3935842100abafe818bba1058</sys_id>
+        <sys_created_on>2024-02-23 13:17:30</sys_created_on>
+        <sys_id>7b5fcb1d932802100abafe818bba1019</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_956260_corpora_0_employee</sys_name>
         <sys_package display_value="Corporate Gifting" source="x_956260_corpora_0">eda6753e2fab7110442218acf699b6f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Corporate Gifting">eda6753e2fab7110442218acf699b6f5</sys_scope>
-        <sys_update_name>sys_security_acl_efaac6c3935842100abafe818bba1058</sys_update_name>
+        <sys_update_name>sys_security_acl_7b5fcb1d932802100abafe818bba1019</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-16 08:31:04</sys_updated_on>
+        <sys_updated_on>2024-02-23 13:17:30</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

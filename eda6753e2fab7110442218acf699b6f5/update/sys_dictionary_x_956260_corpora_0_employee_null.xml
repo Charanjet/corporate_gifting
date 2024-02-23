@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_956260_corpora_0_employee">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="sys_user" table="x_956260_corpora_0_employee">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -51,14 +51,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-02-16 08:31:04</sys_created_on>
+        <sys_created_on>2024-02-23 13:17:30</sys_created_on>
         <sys_name>x_956260_corpora_0_employee</sys_name>
         <sys_package display_value="Corporate Gifting" source="x_956260_corpora_0">eda6753e2fab7110442218acf699b6f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Corporate Gifting">eda6753e2fab7110442218acf699b6f5</sys_scope>
         <sys_update_name>sys_dictionary_x_956260_corpora_0_employee_null</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-02-16 11:10:38</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-23 13:17:30</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
