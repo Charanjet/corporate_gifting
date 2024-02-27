@@ -7,14 +7,14 @@
         <hint/>
         <name/>
         <order>100</order>
-        <roles>x_956260_corpora_0.cg_admin,admin,x_956260_corpora_0.cg_approvers,x_956260_corpora_0.cg_managers,x_956260_corpora_0.cg_mentee,x_956260_corpora_0.employee_user</roles>
+        <roles>x_956260_corpora_0.cg_admin,admin,x_956260_corpora_0.cg_approvers,x_956260_corpora_0.cg_managers,x_956260_corpora_0.cg_mentee,x_956260_corpora_0.employee_user,x_956260_corpora_0.e_wallet_request_by_managers_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-21 10:34:22</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>dea65c7c936402100abafe818bba10bf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Corporate Gifting</sys_name>
         <sys_overrides/>
         <sys_package display_value="Corporate Gifting" source="x_956260_corpora_0">eda6753e2fab7110442218acf699b6f5</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Corporate Gifting">eda6753e2fab7110442218acf699b6f5</sys_scope>
         <sys_update_name>sys_app_application_dea65c7c936402100abafe818bba10bf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-21 10:34:22</sys_updated_on>
+        <sys_updated_on>2024-02-26 12:13:20</sys_updated_on>
         <title>Corporate Gifting</title>
         <view_name/>
     </sys_app_application>

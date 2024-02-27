@@ -7,13 +7,13 @@
         <element choice="1" label="Position Level" max_length="40" name="position_level" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Associate"/>
-                <element inactive_on_update="false" label="Delivery Head"/>
                 <element inactive_on_update="false" label="Director"/>
                 <element inactive_on_update="false" label="HR"/>
                 <element inactive_on_update="false" label="Manager"/>
                 <element inactive_on_update="false" label="Senior Associate"/>
                 <element inactive_on_update="false" label="Senior Manager"/>
                 <element inactive_on_update="false" label="Technical Lead"/>
+                <element inactive_on_update="false" label="Associate" sequence="0"/>
             </choice>
         </element>
         <element choice="1" label="Project/Account" max_length="40" name="project_account" type="choice">
